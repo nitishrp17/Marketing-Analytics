@@ -21,6 +21,7 @@ class HistoryManager {
 
         history.unshift(entry);
         
+        
         // Keep only last 20 entries
         if (history.length > this.maxEntries) {
             history.pop();

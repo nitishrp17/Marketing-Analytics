@@ -647,6 +647,7 @@ body::before {
 }
 
 /* History Panel */
+
 .history-toggle {
     position: fixed;
     left: 20px;
