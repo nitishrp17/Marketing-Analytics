@@ -214,6 +214,7 @@ For questions or issues:
 4. Check browser console for technical errors
 
 ---
-
+## Collaboration Workflow
+This project demonstrates GitHub collaboration using fork and pull request workflow.
 **Version:** 1.0  
 **Last Updated:** November 2025
