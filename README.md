@@ -215,6 +215,6 @@ For questions or issues:
 
 ---
 ## Collaboration Workflow
-This project demonstrates GitHub collaboration using fork and pull request workflow.
+This project demonstrates  GitHub collaboration using fork and pull request workflow.
 **Version:** 1.0  
 **Last Updated:** November 2025
